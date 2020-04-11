@@ -4,6 +4,14 @@ module.exports = {
   plugins: ['prettier'],
 
   rules: {
-    'prettier/prettier': 'error'
+    'prettier/prettier': [
+      'error',
+      {
+        bracketSpacing: true,
+        singleQuote: true,
+        arrowParens: 'avoid',
+        trailingComma: 'none'
+      }
+    ]
   }
 };
