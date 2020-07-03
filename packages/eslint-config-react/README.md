@@ -1,10 +1,23 @@
-# eslint-config-jiepeng
+# @jiepeng/eslint-config-jiepeng-react
 
-[![CI](https://github.com/neighborhood999/eslint-config-jiepeng/workflows/CI/badge.svg?branch=master)](https://github.com/neighborhood999/eslint-config-jiepeng/actions?query=workflow%3ACI+branch%3Amaster)
 [![code style prettier](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/prettier/prettier)
 [![LICENSE](https://flat.badgen.net/github/license/neighborhood999/eslint-config-jiepeng)](https://github.com/neighborhood999/eslint-config-jiepeng/blob/master/LICENSE)
 
-> neighborhood999's eslint configs.
+## Installation
+
+```sh
+$ yarn add @jiepeng/eslint-config-jiepeng-react
+```
+
+## Usage
+
+Create a eslint [configuration](https://eslint.org/docs/user-guide/configuring) files in the root of your project's directory and extends config:
+
+```json
+{
+  "extends": ["@jiepeng/eslint-config-jiepeng-react"]
+}
+```
 
 ## LICENSE
 
