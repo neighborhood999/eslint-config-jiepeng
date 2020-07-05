@@ -12,7 +12,7 @@ module.exports = {
     './rules/react',
     './rules/react-hooks',
     './rules/jsx-a11y',
-    'prettier/react'
+    'eslint-config-prettier/react'
   ].map(require.resolve),
   rules: {}
 };
