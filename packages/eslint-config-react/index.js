@@ -1,6 +1,6 @@
 module.exports = {
   parserOptions: {
-    ecmaVersion: 2019,
+    ecmaVersion: 2020,
     sourceType: 'module',
     ecmaFeatures: {
       jsx: true
@@ -9,7 +9,10 @@ module.exports = {
 
   extends: [
     '@jiepeng/eslint-config-jiepeng-base',
+    './rules/react',
+    './rules/react-hooks',
     './rules/jsx-a11y',
-    './rules/react'
-  ].map(require.resolve)
+    'prettier/react'
+  ].map(require.resolve),
+  rules: {}
 };

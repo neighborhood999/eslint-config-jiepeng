@@ -18,7 +18,7 @@ jobs:
       - name: Installing Deps
         run: |
           yarn install
-      # TODO: add rule test
-      # - name: Lint
-      #   run: |
-      #     make test
+
+      - name: Lint
+        run: |
+          yarn lint
