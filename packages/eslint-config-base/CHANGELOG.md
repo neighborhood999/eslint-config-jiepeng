@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.14
+
+### Patch Changes
+
+- 54b715b: fix: add eslint-config-unicorn dependency
+
 ## 0.0.13
 
 ### Patch Changes
