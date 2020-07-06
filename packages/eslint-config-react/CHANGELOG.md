@@ -1,5 +1,13 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.17
+
+### Patch Changes
+
+- chore: add release workflow
+- Updated dependencies [undefined]
+  - @jiepeng/eslint-config-jiepeng-base@0.0.17
+
 ## 0.0.16
 
 ### Patch Changes

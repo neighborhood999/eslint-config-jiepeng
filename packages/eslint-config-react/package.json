@@ -1,6 +1,6 @@
 {
   "name": "@jiepeng/eslint-config-jiepeng-react",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "neighborhood999's eslint config for react",
   "main": "index.js",
   "scripts": {},
@@ -22,7 +22,7 @@
     "react"
   ],
   "dependencies": {
-    "@jiepeng/eslint-config-jiepeng-base": "^0.0.16",
+    "@jiepeng/eslint-config-jiepeng-base": "^0.0.17",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",

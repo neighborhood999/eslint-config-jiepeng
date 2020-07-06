@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.17
+
+### Patch Changes
+
+- chore: add release workflow
+
 ## 0.0.16
 
 ### Patch Changes
