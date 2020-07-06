@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.16
+
+### Patch Changes
+
+- 8919502: chore: adjust rules
+
 ## 0.0.15
 
 ### Patch Changes

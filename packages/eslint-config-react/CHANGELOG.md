@@ -1,5 +1,13 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.16
+
+### Patch Changes
+
+- 8919502: chore: adjust rules
+- Updated dependencies [8919502]
+  - @jiepeng/eslint-config-jiepeng-base@0.0.16
+
 ## 0.0.15
 
 ### Patch Changes
