@@ -11,7 +11,7 @@ module.exports = {
   plugins: ['unicorn'],
 
   rules: {
-    // https://github.com/sindresorhus/eslint-plugin-unicorn
+    // https://github.com/sindresorhus/eslint-plugin-unicorn#rules
 
     // Enforce passing a message value when throwing a built-in error.
     'unicorn/error-message': 'error',
