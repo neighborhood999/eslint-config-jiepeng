@@ -1,5 +1,14 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.18
+
+### Patch Changes
+
+- [`3e80f51`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/3e80f5185dbbd66b716da1cd2817639795de74af) [#6](https://github.com/neighborhood999/eslint-config-jiepeng/pull/6) Thanks [@neighborhood999](https://github.com/neighborhood999)! - fix: changeset dependency
+
+- Updated dependencies [[`7a62cac`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/7a62cacdc44d2355575967aa5ec443c45de3df5b), [`3e80f51`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/3e80f5185dbbd66b716da1cd2817639795de74af)]:
+  - @jiepeng/eslint-config-jiepeng-base@0.0.18
+
 ## 0.0.17
 
 ### Patch Changes
