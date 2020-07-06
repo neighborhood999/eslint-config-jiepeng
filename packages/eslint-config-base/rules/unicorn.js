@@ -35,9 +35,6 @@ module.exports = {
     'unicorn/new-for-builtins': 'error',
 
     // Disallow identifiers starting with new or class
-    'unicorn/no-keyword-prefix': 'off',
-
-    // Prevent abbreviations.
-    'unicorn/prevent-abbreviations': 'error'
+    'unicorn/no-keyword-prefix': 'off'
   }
 };

@@ -7,12 +7,12 @@ module.exports = {
     './rules/es6',
     './rules/imports',
     './rules/node',
-    './rules/prettier',
     './rules/sort-imports-es6',
     './rules/strict',
     './rules/styles',
-    './rules/unicorn',
-    './rules/variables'
+    './rules/variables',
+    './rules/prettier',
+    './rules/unicorn'
   ].map(require.resolve),
   parserOptions: {
     ecmaVersion: 2020,

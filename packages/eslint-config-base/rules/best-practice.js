@@ -23,7 +23,7 @@ module.exports = {
     ],
 
     // require return statements to either always or never specify values
-    'consistent-return': 'error',
+    'consistent-return': 'off',
 
     // specify curly brace conventions for all control statements
     curly: ['error', 'multi-line'], // multiline
