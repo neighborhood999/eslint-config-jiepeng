@@ -6,6 +6,10 @@
 
 > neighborhood999's eslint configs, base on [Airbnb ESLint Rules](https://github.com/airbnb/javascript/tree/master/packages).
 
+## Test
+
+test commit.
+
 ## Credit
 
 - [eslint-config-airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)
