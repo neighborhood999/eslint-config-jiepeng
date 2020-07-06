@@ -1,10 +1,11 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@1.3.0/schema.json",
-  "changelog": "@changesets/cli/changelog",
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "neighborhood999/eslint-config-jiepeng" }
+  ],
   "commit": false,
   "linked": [],
-  "access": "restricted",
-  "baseBranch": "master",
-  "updateInternalDependencies": "patch",
-  "ignore": []
+  "access": "public",
+  "baseBranch": "master"
 }
