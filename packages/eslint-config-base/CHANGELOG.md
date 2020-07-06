@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.15
+
+### Patch Changes
+
+- 6c25145: fix: add eslint-plugin-prettier dependency
+
 ## 0.0.14
 
 ### Patch Changes

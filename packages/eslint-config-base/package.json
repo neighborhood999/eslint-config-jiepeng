@@ -1,6 +1,6 @@
 {
   "name": "@jiepeng/eslint-config-jiepeng-base",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "neighborhood999's eslint base config.",
   "main": "index.js",
   "scripts": {},

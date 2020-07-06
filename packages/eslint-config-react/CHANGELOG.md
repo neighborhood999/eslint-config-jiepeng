@@ -1,5 +1,13 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.15
+
+### Patch Changes
+
+- 6c25145: fix: add eslint-plugin-prettier dependency
+- Updated dependencies [6c25145]
+  - @jiepeng/eslint-config-jiepeng-base@0.0.15
+
 ## 0.0.14
 
 ### Patch Changes
