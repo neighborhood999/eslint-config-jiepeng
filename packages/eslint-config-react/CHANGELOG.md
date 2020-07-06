@@ -1,5 +1,14 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.20
+
+### Patch Changes
+
+- [`b9e8062`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/b9e806265393f089b154e915f746bc714423eed3) [#10](https://github.com/neighborhood999/eslint-config-jiepeng/pull/10) Thanks [@neighborhood999](https://github.com/neighborhood999)! - chore: workflow
+
+- Updated dependencies [[`b9e8062`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/b9e806265393f089b154e915f746bc714423eed3)]:
+  - @jiepeng/eslint-config-jiepeng-base@0.0.19
+
 ## 0.0.19
 
 ### Patch Changes

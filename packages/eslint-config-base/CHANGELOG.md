@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.19
+
+### Patch Changes
+
+- [`b9e8062`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/b9e806265393f089b154e915f746bc714423eed3) [#10](https://github.com/neighborhood999/eslint-config-jiepeng/pull/10) Thanks [@neighborhood999](https://github.com/neighborhood999)! - chore: workflow
+
 ## 0.0.18
 
 ### Patch Changes
