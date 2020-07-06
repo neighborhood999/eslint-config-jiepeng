@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.19
+
+### Patch Changes
+
+- [`209550f`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/209550f33f707c2c3a3998474b58b7f962a823ef) [#8](https://github.com/neighborhood999/eslint-config-jiepeng/pull/8) Thanks [@neighborhood999](https://github.com/neighborhood999)! - chore: adjust react rules
+
 ## 0.0.18
 
 ### Patch Changes
