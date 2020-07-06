@@ -1,5 +1,13 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.13
+
+### Patch Changes
+
+- c049517: Fix: add missing dependency
+- Updated dependencies [c049517]
+  - @jiepeng/eslint-config-jiepeng-base@0.0.13
+
 ## 0.0.12
 
 ### Patch Changes
