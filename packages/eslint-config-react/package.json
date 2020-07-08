@@ -14,7 +14,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "@jiepeng/eslint-config-jiepeng-base": "^0.0.20",
+    "@jiepeng/eslint-config-jiepeng-base": "^0.0.19",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
