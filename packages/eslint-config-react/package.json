@@ -1,9 +1,8 @@
 {
   "name": "@jiepeng/eslint-config-jiepeng-react",
-  "version": "0.0.20",
   "description": "neighborhood999's eslint config for react",
-  "main": "index.js",
-  "scripts": {},
+  "license": "MIT",
+  "author": "Peng Jie <im@jiepeng.me>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/neighborhood999/eslint-config-jiepeng.git"
@@ -11,16 +10,9 @@
   "bugs": {
     "url": "https://github.com/neighborhood999/eslint-config-jiepeng/issues"
   },
-  "author": "Peng Jie <im@jiepeng.me>",
-  "keywords": [
-    "javascript",
-    "eslint",
-    "eslintconfig",
-    "prettier",
-    "lint",
-    "config",
-    "react"
-  ],
+  "version": "0.0.20",
+  "main": "index.js",
+  "scripts": {},
   "dependencies": {
     "@jiepeng/eslint-config-jiepeng-base": "^0.0.19",
     "eslint-config-prettier": "^6.11.0",
@@ -28,14 +20,22 @@
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.4"
   },
-  "devDependencies": {
-    "eslint": "^7.3.1"
-  },
   "peerDependencies": {
     "eslint": ">= 7.0.0"
   },
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  },
+  "keywords": [
+    "config",
+    "eslint",
+    "eslintconfig",
+    "javascript",
+    "lint",
+    "prettier",
+    "react"
+  ],
   "publishConfig": {
     "access": "public"
-  },
-  "license": "MIT"
+  }
 }
