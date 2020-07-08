@@ -1,4 +1,12 @@
 module.exports = {
+  extends: [
+    '@jiepeng/eslint-config-jiepeng-base',
+    './rules/react',
+    './rules/react-hooks',
+    './rules/jsx-a11y',
+    'eslint-config-prettier/react'
+  ].map(require.resolve),
+
   parserOptions: {
     ecmaVersion: 2020,
     sourceType: 'module',
@@ -7,12 +15,5 @@ module.exports = {
     }
   },
 
-  extends: [
-    '@jiepeng/eslint-config-jiepeng-base',
-    './rules/react',
-    './rules/react-hooks',
-    './rules/jsx-a11y',
-    'eslint-config-prettier/react'
-  ].map(require.resolve),
   rules: {}
 };
