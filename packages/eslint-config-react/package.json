@@ -10,11 +10,11 @@
   "bugs": {
     "url": "https://github.com/neighborhood999/eslint-config-jiepeng/issues"
   },
-  "version": "0.0.20",
+  "version": "0.0.21",
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "@jiepeng/eslint-config-jiepeng-base": "^0.0.19",
+    "@jiepeng/eslint-config-jiepeng-base": "^0.0.20",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
