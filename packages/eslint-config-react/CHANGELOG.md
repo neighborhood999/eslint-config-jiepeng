@@ -1,5 +1,8 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+- Updated dependencies []:
+  - @jiepeng/eslint-config-jiepeng-base@0.0.20
+
 ## 0.0.20
 
 ### Patch Changes
