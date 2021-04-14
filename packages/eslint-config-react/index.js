@@ -3,8 +3,7 @@ module.exports = {
     '@jiepeng/eslint-config-jiepeng-base',
     './rules/react',
     './rules/react-hooks',
-    './rules/jsx-a11y',
-    'eslint-config-prettier/react'
+    './rules/jsx-a11y'
   ].map(require.resolve),
 
   parserOptions: {
