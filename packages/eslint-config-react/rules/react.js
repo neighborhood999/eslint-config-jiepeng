@@ -248,7 +248,8 @@ module.exports = {
 
     // Prevent missing React when using JSX
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/react-in-jsx-scope.md
-    'react/react-in-jsx-scope': 'error',
+    // https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
+    'react/react-in-jsx-scope': 'off',
 
     // Require render() methods to return something
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/require-render-return.md
