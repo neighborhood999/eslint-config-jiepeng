@@ -1,5 +1,13 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.23
+
+### Patch Changes
+
+- [#20](https://github.com/neighborhood999/eslint-config-jiepeng/pull/20) [`c929376`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/c92937619eeb5b41a9e16bd12b31a46eda3d6895) Thanks [@neighborhood999](https://github.com/neighborhood999)! - fix(prettier): remove eslint-config-prettier/react
+
+  - [Reference](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md#version-800-2021-02-21)
+
 ## 0.0.22
 
 ### Patch Changes
