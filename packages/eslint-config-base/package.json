@@ -14,7 +14,8 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "babel-eslint": "^10.1.0",
+    "@babel/core": "^7.13.15",
+    "@babel/eslint-parser": "^7.13.14",
     "confusing-browser-globals": "^1.0.10",
     "eslint-config-prettier": "^8.2.0",
     "eslint-plugin-import": "^2.22.1",

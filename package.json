@@ -19,9 +19,12 @@
     "postinstall": "manypkg check",
     "lint": "eslint 'packages/**/*.js'",
     "lint:fix": "npm run lint -- --fix",
-    "release": "changeset publish"
+    "release": "changeset publish",
+    "prepare": "husky install"
   },
   "dependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/eslint-parser": "^7.13.14",
     "@changesets/changelog-github": "^0.4.0",
     "@changesets/cli": "^2.16.0",
     "@manypkg/cli": "^0.17.0",
@@ -36,8 +39,8 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
     "eslint-plugin-unicorn": "^29.0.0",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
+    "husky": "^6.0.0",
+    "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
   },
   "keywords": [
@@ -49,11 +52,6 @@
     "prettier",
     "react"
   ],
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "**/*.js": [
       "yarn lint:fix"
