@@ -6,11 +6,16 @@ module.exports = {
     './rules/jsx-a11y'
   ].map(require.resolve),
 
+  plugins: ['@babel'],
+
   parserOptions: {
-    ecmaVersion: 2020,
+    ecmaVersion: 2021,
     sourceType: 'module',
-    ecmaFeatures: {
-      jsx: true
+    requireConfigFile: false,
+    babelOptions: {
+      parserOpts: {
+        plugins: ['jsx']
+      }
     }
   },
 
