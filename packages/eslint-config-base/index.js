@@ -15,9 +15,11 @@ module.exports = {
     './rules/prettier'
   ].map(require.resolve),
 
+  // https://github.com/babel/babel/tree/master/eslint/babel-eslint-parser
   parserOptions: {
-    ecmaVersion: 2020,
-    sourceType: 'module'
+    ecmaVersion: 2021,
+    sourceType: 'module',
+    requireConfigFile: false
   },
 
   rules: {}
