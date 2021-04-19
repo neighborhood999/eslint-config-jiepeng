@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.23
+
+### Patch Changes
+
+- [#24](https://github.com/neighborhood999/eslint-config-jiepeng/pull/24) [`1d06373`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/1d063739c324bfbedd473e17a6da97eb1550461b) Thanks [@neighborhood999](https://github.com/neighborhood999)! - fix(eslint): update parser
+
 ## 0.0.22
 
 ### Patch Changes

@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/neighborhood999/eslint-config-jiepeng/issues"
   },
-  "version": "0.0.22",
+  "version": "0.0.23",
   "main": "index.js",
   "scripts": {},
   "dependencies": {
