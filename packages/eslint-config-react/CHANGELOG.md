@@ -1,5 +1,12 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.26
+
+### Patch Changes
+
+- Updated dependencies [[`e9555e8`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/e9555e833aa03bb2715a41dd19b1864be77e10ce)]:
+  - @jiepeng/eslint-config-jiepeng-base@0.0.24
+
 ## 0.0.25
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-base
 
+## 0.0.24
+
+### Patch Changes
+
+- [#26](https://github.com/neighborhood999/eslint-config-jiepeng/pull/26) [`e9555e8`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/e9555e833aa03bb2715a41dd19b1864be77e10ce) Thanks [@neighborhood999](https://github.com/neighborhood999)! - fix: add missing dependency
+
 ## 0.0.23
 
 ### Patch Changes
