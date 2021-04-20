@@ -1,5 +1,11 @@
 # @jiepeng/eslint-config-jiepeng-react
 
+## 0.0.27
+
+### Patch Changes
+
+- [#28](https://github.com/neighborhood999/eslint-config-jiepeng/pull/28) [`4660127`](https://github.com/neighborhood999/eslint-config-jiepeng/commit/466012756852370e51ad2a43353cfea143bdf160) Thanks [@neighborhood999](https://github.com/neighborhood999)! - chore: adjust react/jsx-key and jsx-a11y/accessible-emoji rules
+
 ## 0.0.26
 
 ### Patch Changes
