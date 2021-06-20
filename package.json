@@ -28,7 +28,7 @@
     "@babel/eslint-plugin": "^7.13.15",
     "@changesets/changelog-github": "^0.4.0",
     "@changesets/cli": "^2.16.0",
-    "@manypkg/cli": "^0.17.0",
+    "@manypkg/cli": "^0.18.0",
     "babel-eslint": "^10.1.0",
     "confusing-browser-globals": "^1.0.10",
     "eslint": "^7.24.0",
