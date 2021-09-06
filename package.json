@@ -23,7 +23,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/core": "^7.14.8",
+    "@babel/core": "^7.15.5",
     "@babel/eslint-parser": "^7.14.7",
     "@babel/eslint-plugin": "^7.14.5",
     "@changesets/changelog-github": "^0.4.0",
